@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Style de base pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style du conteneur d'erreur */
+.error-container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+/* Style du titre */
+h1 {
+    color: #e74c3c; /* Couleur rouge */
+    font-size: 3rem;
+}
+
+/* Style du message d'erreur */
+p {
+    font-size: 1.5rem;
+}
+
+/* Style du lien de retour */
+a {
+    color: #3498db; /* Couleur bleue */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
